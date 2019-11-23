@@ -1,0 +1,5 @@
+mvn clean install to create war
+copy guide.war to /path/to/apache-tomcat-7.0.88/webapps
+startup.sh
+http://localhost:8080/guide/welcome
+
