@@ -3,3 +3,6 @@ copy guide.war to /path/to/apache-tomcat-7.0.88/webapps
 startup.sh
 http://localhost:8080/guide/welcome
 
+How to run application from Intellij?
+Run/Debug configurations -> Deployment -> ApplicationContext = /
+

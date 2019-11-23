@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.travel</groupId>
-    <artifactId>guide</artifactId>
+    <artifactId>travel-guide</artifactId>
     <version>0.0.1</version>
     <packaging>war</packaging>
-    <name>guide</name>
+    <name>travel guide</name>
     <properties>
         <spring.version>5.2.1.RELEASE</spring.version>
         <servlet.api.version>4.0.1</servlet.api.version>
