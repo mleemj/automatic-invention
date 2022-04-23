@@ -9,7 +9,7 @@
     <packaging>war</packaging>
     <name>travel guide</name>
     <properties>
-        <spring.version>5.2.1.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
         <servlet.api.version>4.0.1</servlet.api.version>
         <spring.spring-web-reactive>5.0.0.M4</spring.spring-web-reactive>
     </properties>
